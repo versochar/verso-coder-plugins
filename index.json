@@ -3,6 +3,19 @@
   "updated": "2026-09-28",
   "plugins": [
     {
+      "id": "ceviri",
+      "name": "Çeviri",
+      "version": "1.0.0",
+      "description": "İngilizce-Türkçe çeviri (ücretsiz API).",
+      "author": "versochar",
+      "permissions": [
+        "net",
+        "ui"
+      ],
+      "file": "plugins/ceviri/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "csv",
       "name": "CSV Tablo",
       "version": "1.0.0",
