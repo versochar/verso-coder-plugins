@@ -45,6 +45,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "cppmodern",
+      "name": "C++ Modernleştirici",
+      "version": "1.0.0",
+      "description": "NULL->nullptr, typedef->using.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/cppmodern/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "csv",
       "name": "CSV Tablo",
       "version": "1.0.0",
