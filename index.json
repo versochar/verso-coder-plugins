@@ -41,6 +41,19 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "hava",
+      "name": "Hava Durumu",
+      "version": "1.0.0",
+      "description": "3 günlük hava durumu (ücretsiz API).",
+      "author": "versochar",
+      "permissions": [
+        "net",
+        "ui"
+      ],
+      "file": "plugins/hava/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "json",
       "name": "JSON Bakımı",
       "version": "1.0.0",
