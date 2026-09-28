@@ -41,6 +41,18 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "githizli",
+      "name": "Git Hızlı Komut",
+      "version": "1.0.0",
+      "description": "Sık git komutlarını terminale gönderir.",
+      "author": "versochar",
+      "permissions": [
+        "ui"
+      ],
+      "file": "plugins/githizli/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "hava",
       "name": "Hava Durumu",
       "version": "1.0.0",
