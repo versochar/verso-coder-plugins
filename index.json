@@ -241,6 +241,18 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "regex",
+      "name": "Regex Deneme",
+      "version": "1.0.0",
+      "description": "Düzenli ifade deneme tahtası.",
+      "author": "versochar",
+      "permissions": [
+        "ui"
+      ],
+      "file": "plugins/regex/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "rest",
       "name": "REST İstemcisi",
       "version": "1.0.0",
