@@ -3,12 +3,39 @@
   "updated": "2026-09-28",
   "plugins": [
     {
+      "id": "deneme",
+      "name": "Deneme",
+      "version": "0.1.0",
+      "description": "Yayın akışı denemesi",
+      "author": "test",
+      "permissions": [
+        "ui"
+      ],
+      "file": "plugins/deneme/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
+      "id": "echo",
+      "name": "Echo",
+      "version": "1.0.0",
+      "description": "En küçük örnek eklenti: selam komutu.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read"
+      ],
+      "file": "plugins/echo/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "kelime",
       "name": "Kelime Sayacı",
       "version": "1.0.0",
       "description": "Açık dosyadaki kelime ve satır sayısını durum çubuğunda gösterir.",
       "author": "versochar",
-      "permissions": ["fs.read", "ui"],
+      "permissions": [
+        "fs.read",
+        "ui"
+      ],
       "file": "plugins/kelime/plugin.js",
       "minApp": "1.1.0"
     },
@@ -18,7 +45,11 @@
       "version": "1.0.0",
       "description": "Tür seçip hızlı not kaydeder (Fikir/Hata/Yapılacak).",
       "author": "versochar",
-      "permissions": ["ui", "fs.write", "fs.read"],
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
       "file": "plugins/notal/plugin.js",
       "minApp": "1.1.0"
     },
@@ -28,18 +59,10 @@
       "version": "1.0.0",
       "description": "Durum çubuğu + giriş kutusu + sayaç örneği.",
       "author": "versochar",
-      "permissions": ["ui"],
+      "permissions": [
+        "ui"
+      ],
       "file": "plugins/selam/plugin.js",
-      "minApp": "1.1.0"
-    },
-    {
-      "id": "echo",
-      "name": "Echo",
-      "version": "1.0.0",
-      "description": "En küçük örnek eklenti: selam komutu.",
-      "author": "versochar",
-      "permissions": ["fs.read"],
-      "file": "plugins/echo/plugin.js",
       "minApp": "1.1.0"
     }
   ]
