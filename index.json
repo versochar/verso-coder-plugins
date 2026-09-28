@@ -123,6 +123,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "html",
+      "name": "HTML Araçları",
+      "version": "1.0.0",
+      "description": "HTML etiket denetimi + HTML5 iskelet.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/html/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "importlar",
       "name": "Import Düzenleyici",
       "version": "1.0.0",
