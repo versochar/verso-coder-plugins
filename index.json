@@ -269,6 +269,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "pyfstring",
+      "name": "Python f-string",
+      "version": "1.0.0",
+      "description": "% ve .format() biçimlerini f-string'e çevirir.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/pyfstring/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "regex",
       "name": "Regex Deneme",
       "version": "1.0.0",
