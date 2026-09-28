@@ -109,6 +109,19 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "karmasiklik",
+      "name": "Karmaşıklık Ölçer",
+      "version": "1.0.0",
+      "description": "İşlev karmaşıklığını ölçer, riskliyi bildirir.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "ui"
+      ],
+      "file": "plugins/karmasiklik/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "kelime",
       "name": "Kelime Sayacı",
       "version": "1.0.0",
