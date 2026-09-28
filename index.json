@@ -59,6 +59,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "cssrenk",
+      "name": "CSS Renk Değişkeni",
+      "version": "1.0.0",
+      "description": "CSS renklerini :root değişkenine çıkarır.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/cssrenk/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "csv",
       "name": "CSV Tablo",
       "version": "1.0.0",
