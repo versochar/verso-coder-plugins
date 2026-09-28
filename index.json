@@ -106,6 +106,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "logavcisi",
+      "name": "Log Avcısı",
+      "version": "1.0.0",
+      "description": "console.log/print artıklarını bulur, toplu siler.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/logavcisi/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "lorem",
       "name": "Lorem Üretici",
       "version": "1.0.0",
