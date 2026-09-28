@@ -159,6 +159,18 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "pastel",
+      "name": "Pastel Temalar",
+      "version": "1.0.0",
+      "description": "3 pastel tema (koyu/açık/kontrast).",
+      "author": "versochar",
+      "permissions": [
+        "ui"
+      ],
+      "file": "plugins/pastel/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "selam",
       "name": "Selam Durumu",
       "version": "1.0.0",
