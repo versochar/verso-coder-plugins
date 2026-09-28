@@ -31,6 +31,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "cheader",
+      "name": "C Header Guard",
+      "version": "1.0.0",
+      "description": "C başlığına #ifndef muhafızı ekler.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/cheader/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "csv",
       "name": "CSV Tablo",
       "version": "1.0.0",
