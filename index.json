@@ -66,6 +66,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "importlar",
+      "name": "Import Düzenleyici",
+      "version": "1.0.0",
+      "description": "Python/JS import bloklarını sıralar.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/importlar/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "json",
       "name": "JSON Bakımı",
       "version": "1.0.0",
