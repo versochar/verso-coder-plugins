@@ -15,6 +15,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "json",
+      "name": "JSON Bakımı",
+      "version": "1.0.0",
+      "description": "JSON doğrular ve pretty-print ile düzenler.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/json/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "kelime",
       "name": "Kelime Sayacı",
       "version": "1.0.0",
