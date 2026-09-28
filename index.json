@@ -3,6 +3,19 @@
   "updated": "2026-09-28",
   "plugins": [
     {
+      "id": "csv",
+      "name": "CSV Tablo",
+      "version": "1.0.0",
+      "description": "CSV dosyasını tablo görünümde açar.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "ui"
+      ],
+      "file": "plugins/csv/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "echo",
       "name": "Echo",
       "version": "1.0.0",
