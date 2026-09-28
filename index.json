@@ -241,6 +241,19 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "rest",
+      "name": "REST İstemcisi",
+      "version": "1.0.0",
+      "description": "Hızlı GET denetimi, yanıtı görünümde gösterir.",
+      "author": "versochar",
+      "permissions": [
+        "net",
+        "ui"
+      ],
+      "file": "plugins/rest/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "selam",
       "name": "Selam Durumu",
       "version": "1.0.0",
