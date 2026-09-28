@@ -3,18 +3,6 @@
   "updated": "2026-09-28",
   "plugins": [
     {
-      "id": "deneme",
-      "name": "Deneme",
-      "version": "0.1.0",
-      "description": "Yayın akışı denemesi",
-      "author": "test",
-      "permissions": [
-        "ui"
-      ],
-      "file": "plugins/deneme/plugin.js",
-      "minApp": "1.1.0"
-    },
-    {
       "id": "echo",
       "name": "Echo",
       "version": "1.0.0",
