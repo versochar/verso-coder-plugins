@@ -15,7 +15,7 @@
         "ui"
       ],
       "file": "plugins/bosluktemiz/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "ceviri",
@@ -28,7 +28,7 @@
         "ui"
       ],
       "file": "plugins/ceviri/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "cheader",
@@ -42,7 +42,7 @@
         "ui"
       ],
       "file": "plugins/cheader/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "cppmodern",
@@ -56,7 +56,7 @@
         "ui"
       ],
       "file": "plugins/cppmodern/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "cssrenk",
@@ -70,7 +70,7 @@
         "ui"
       ],
       "file": "plugins/cssrenk/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "csv",
@@ -83,7 +83,7 @@
         "ui"
       ],
       "file": "plugins/csv/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "echo",
@@ -95,7 +95,7 @@
         "fs.read"
       ],
       "file": "plugins/echo/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "githizli",
@@ -107,7 +107,7 @@
         "ui"
       ],
       "file": "plugins/githizli/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "gitignore",
@@ -121,7 +121,7 @@
         "ui"
       ],
       "file": "plugins/gitignore/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "hava",
@@ -134,7 +134,7 @@
         "ui"
       ],
       "file": "plugins/hava/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "html",
@@ -148,7 +148,7 @@
         "ui"
       ],
       "file": "plugins/html/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "importlar",
@@ -162,7 +162,7 @@
         "ui"
       ],
       "file": "plugins/importlar/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "javags",
@@ -176,7 +176,7 @@
         "ui"
       ],
       "file": "plugins/javags/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "jsarrow",
@@ -190,7 +190,7 @@
         "ui"
       ],
       "file": "plugins/jsarrow/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "json",
@@ -204,7 +204,7 @@
         "ui"
       ],
       "file": "plugins/json/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "jsvar",
@@ -218,7 +218,7 @@
         "ui"
       ],
       "file": "plugins/jsvar/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "karmasiklik",
@@ -231,7 +231,7 @@
         "ui"
       ],
       "file": "plugins/karmasiklik/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "kelime",
@@ -244,7 +244,7 @@
         "ui"
       ],
       "file": "plugins/kelime/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "kodsay",
@@ -257,7 +257,7 @@
         "ui"
       ],
       "file": "plugins/kodsay/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "logavcisi",
@@ -271,7 +271,7 @@
         "ui"
       ],
       "file": "plugins/logavcisi/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "lorem",
@@ -285,7 +285,7 @@
         "ui"
       ],
       "file": "plugins/lorem/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "md",
@@ -298,7 +298,7 @@
         "ui"
       ],
       "file": "plugins/md/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "modeluret",
@@ -312,7 +312,7 @@
         "ui"
       ],
       "file": "plugins/modeluret/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "notal",
@@ -326,7 +326,7 @@
         "ui"
       ],
       "file": "plugins/notal/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "notlar",
@@ -338,7 +338,7 @@
         "ui"
       ],
       "file": "plugins/notlar/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "pastel",
@@ -350,7 +350,7 @@
         "ui"
       ],
       "file": "plugins/pastel/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "pydoc",
@@ -364,7 +364,7 @@
         "ui"
       ],
       "file": "plugins/pydoc/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "pyfstring",
@@ -378,7 +378,7 @@
         "ui"
       ],
       "file": "plugins/pyfstring/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "regex",
@@ -390,7 +390,7 @@
         "ui"
       ],
       "file": "plugins/regex/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "rest",
@@ -403,7 +403,7 @@
         "ui"
       ],
       "file": "plugins/rest/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "selam",
@@ -415,7 +415,7 @@
         "ui"
       ],
       "file": "plugins/selam/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "snippet",
@@ -429,7 +429,7 @@
         "ui"
       ],
       "file": "plugins/snippet/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "todo",
@@ -443,7 +443,7 @@
         "ui"
       ],
       "file": "plugins/todo/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     },
     {
       "id": "webizle",
@@ -456,7 +456,7 @@
         "ui"
       ],
       "file": "plugins/webizle/plugin.js",
-      "minApp": "1.1.0"
+      "minApp": "0.3.2"
     }
   ]
 }
