@@ -147,6 +147,18 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "notlar",
+      "name": "Çalışma Alanı Notları",
+      "version": "1.0.0",
+      "description": "Çalışma alanına dosyasız notlar.",
+      "author": "versochar",
+      "permissions": [
+        "ui"
+      ],
+      "file": "plugins/notlar/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "selam",
       "name": "Selam Durumu",
       "version": "1.0.0",
