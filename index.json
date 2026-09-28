@@ -179,6 +179,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "jsarrow",
+      "name": "JS Arrow Dönüştürücü",
+      "version": "1.0.0",
+      "description": "Tek satırlık function'ları oka çevirir.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/jsarrow/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "json",
       "name": "JSON Bakımı",
       "version": "1.0.0",
