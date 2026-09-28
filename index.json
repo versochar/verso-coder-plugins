@@ -292,6 +292,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "snippet",
+      "name": "Snippet Kitaplığı",
+      "version": "1.0.0",
+      "description": "Adlı kod parçacıkları kitaplığı.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/snippet/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "todo",
       "name": "TODO Paneli",
       "version": "1.0.0",
