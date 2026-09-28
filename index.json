@@ -195,6 +195,20 @@
       ],
       "file": "plugins/selam/plugin.js",
       "minApp": "1.1.0"
+    },
+    {
+      "id": "todo",
+      "name": "TODO Paneli",
+      "version": "1.0.0",
+      "description": "TODO/FIXME tarar, kaydetmede otomatik tazeler.",
+      "author": "versochar",
+      "permissions": [
+        "events",
+        "fs.read",
+        "ui"
+      ],
+      "file": "plugins/todo/plugin.js",
+      "minApp": "1.1.0"
     }
   ]
 }
