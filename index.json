@@ -68,6 +68,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "gitignore",
+      "name": "Gitignore Üretici",
+      "version": "1.0.0",
+      "description": "Dile göre .gitignore üretir.",
+      "author": "versochar",
+      "permissions": [
+        "fs.write",
+        "net",
+        "ui"
+      ],
+      "file": "plugins/gitignore/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "hava",
       "name": "Hava Durumu",
       "version": "1.0.0",
