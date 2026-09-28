@@ -55,6 +55,19 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "kodsay",
+      "name": "Kod Sayacı",
+      "version": "1.0.0",
+      "description": "Satır/kod/yorum/boş + kaba işlev sayımı.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "ui"
+      ],
+      "file": "plugins/kodsay/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "md",
       "name": "Markdown Önizleme",
       "version": "1.0.0",
