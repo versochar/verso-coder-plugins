@@ -444,6 +444,19 @@
       ],
       "file": "plugins/todo/plugin.js",
       "minApp": "1.1.0"
+    },
+    {
+      "id": "webizle",
+      "name": "Web Önizleme",
+      "version": "1.0.0",
+      "description": "HTML önizleme, göreli CSS/JS gömülü.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "ui"
+      ],
+      "file": "plugins/webizle/plugin.js",
+      "minApp": "1.1.0"
     }
   ]
 }
