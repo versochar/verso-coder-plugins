@@ -68,6 +68,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "lorem",
+      "name": "Lorem Üretici",
+      "version": "1.0.0",
+      "description": "Lorem Ipsum üretir, açık dosyaya ekler.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/lorem/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "md",
       "name": "Markdown Önizleme",
       "version": "1.0.0",
