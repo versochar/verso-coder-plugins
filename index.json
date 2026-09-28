@@ -161,6 +161,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "modeluret",
+      "name": "Model Üretici",
+      "version": "1.0.0",
+      "description": "JSON'dan C++ struct/Python dataclass/TS interface.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/modeluret/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "notal",
       "name": "Hızlı Not",
       "version": "1.0.0",
