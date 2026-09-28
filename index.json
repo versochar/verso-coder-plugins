@@ -193,6 +193,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "jsvar",
+      "name": "JS var Dönüştürücü",
+      "version": "1.0.0",
+      "description": "var'ları const/let'e çevirir.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/jsvar/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "karmasiklik",
       "name": "Karmaşıklık Ölçer",
       "version": "1.0.0",
