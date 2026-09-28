@@ -3,6 +3,21 @@
   "updated": "2026-09-28",
   "plugins": [
     {
+      "id": "bosluktemiz",
+      "name": "Boşluk Temizleyici",
+      "version": "1.0.0",
+      "description": "Sondaki boşlukları temizler, kaydetmede otomatik.",
+      "author": "versochar",
+      "permissions": [
+        "events",
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/bosluktemiz/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "ceviri",
       "name": "Çeviri",
       "version": "1.0.0",
