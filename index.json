@@ -255,6 +255,20 @@
       "minApp": "1.1.0"
     },
     {
+      "id": "pydoc",
+      "name": "Python Docstring",
+      "version": "1.0.0",
+      "description": "Docstring'siz def/class bulur, iskelet ekler.",
+      "author": "versochar",
+      "permissions": [
+        "fs.read",
+        "fs.write",
+        "ui"
+      ],
+      "file": "plugins/pydoc/plugin.js",
+      "minApp": "1.1.0"
+    },
+    {
       "id": "regex",
       "name": "Regex Deneme",
       "version": "1.0.0",
